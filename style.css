@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+div{
+    width: 100vw;
+    height: 100vh;
+    margin: auto;
+    background-color: rgb(30, 30, 30);
+    display: flex;
+}
+h1{
+    margin: auto;
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
